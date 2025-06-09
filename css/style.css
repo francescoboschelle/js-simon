@@ -1,17 +1,25 @@
 /* Generics */
 
+#instructions {
+  cursor: pointer;
+}
+
+#instructions:hover {
+  text-decoration: underline;
+}
+
 /* # COUNTDOWN */
 
 #countdown {
-	font-weight: bolder;
-	font-size: 5rem;
+  font-weight: bolder;
+  font-size: 5rem;
 }
 
 /* #NUMBERS */
 #numbers-list {
-	font-size: 3rem;
+  font-size: 3rem;
 }
 
 input {
-	width: 80px !important;
+  width: 80px !important;
 }
